@@ -24,6 +24,7 @@ Github: https://github.com/namzop
 }
 .black-background{
   background-color:black;
+  color:white;
 }
 .fore-green{
   color:green;
@@ -120,4 +121,10 @@ Github: https://github.com/namzop
 }
 .satisfy{
   font-family:'Satisfy';
+}
+.no-decoration{
+  text-decoration: none;
+}
+.white-background{
+  background-color:white;
 }
